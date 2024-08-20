@@ -1,0 +1,10 @@
+C:\Users\Aluno\Documents\Atividade Prática\bin\Debug\Atividade Prática.exe.config
+C:\Users\Aluno\Documents\Atividade Prática\bin\Debug\Atividade Prática.exe
+C:\Users\Aluno\Documents\Atividade Prática\bin\Debug\Atividade Prática.pdb
+C:\Users\Aluno\Documents\Atividade Prática\obj\Debug\Atividade Prática.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Atividade Prática\obj\Debug\Atividade_Prática.Form1.resources
+C:\Users\Aluno\Documents\Atividade Prática\obj\Debug\Atividade_Prática.Properties.Resources.resources
+C:\Users\Aluno\Documents\Atividade Prática\obj\Debug\Atividade Prática.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Atividade Prática\obj\Debug\Atividade Prática.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Atividade Prática\obj\Debug\Atividade Prática.exe
+C:\Users\Aluno\Documents\Atividade Prática\obj\Debug\Atividade Prática.pdb
